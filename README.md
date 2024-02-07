@@ -123,6 +123,8 @@ Use these files to complete the implementation:
 </details>
 
 
+[Random Number Generator(Output)](https://randnumgensai.ccbp.tech/)
+
 > ### _Things to Keep in Mind_
 >
 > - All components you implement should go in the `src/components` directory.
@@ -131,4 +133,3 @@ Use these files to complete the implementation:
 > - Want to quickly review some of the concepts you’ve been learning? Take a look at the Cheat Sheets.
 
 
-<h5>Final Result</h5> [Random Number Generator](https://randnumgensai.ccbp.tech/)
