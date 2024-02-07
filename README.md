@@ -122,7 +122,7 @@ Use these files to complete the implementation:
 
 </details>
 
-<a href="https://randnumgensai.ccbp.tech"><h1>Final output</h1></a>
+<a href="[https://www.w3schools.com">](https://randnumgensai.ccbp.tech/)Output</a>
 
 > ### _Things to Keep in Mind_
 >
