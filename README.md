@@ -123,6 +123,8 @@ Use these files to complete the implementation:
 </details>
 
 <a href="[https://www.w3schools.com">](https://randnumgensai.ccbp.tech/)Output</a>
+<a href="[https://www.w3schools.com">](https://randnumgensai.ccbp.tech/)Output</a>
+[Output link](https://randnumgensai.ccbp.tech/)
 
 > ### _Things to Keep in Mind_
 >
